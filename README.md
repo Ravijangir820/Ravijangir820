@@ -19,11 +19,10 @@ I'm a Computer Science & Engineering student passionate about exploring the inte
 
 ---
 
-"Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more."
-“I don't care that they stole my idea . . I care that they don't have any of their own”
-“If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.”
-    
-                                                                                            ― Nikola Tesla
+> “I don't care that they stole my idea . . I care that they don't have any of their own”\
+> “If you want to find the secrets of the universe, think in terms of energy, frequency and vibration.”
+> 
+> ― Nikola Tesla
 
 <!--
 **Ravijangir820/Ravijangir820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
